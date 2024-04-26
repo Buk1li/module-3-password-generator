@@ -21,4 +21,4 @@ The password generator allows the user to select a length that they would like t
 This project is unlicensed
 
 ## Screenshots
-![Password Generated](c:\Users\itsco\Downloads\Password_Genny.png)
+![Password_Generated](https://github.com/Buk1li/module-3-password-generator/assets/153480227/dcdaa2d3-e381-44f7-8f6c-0bb94e88c990)
